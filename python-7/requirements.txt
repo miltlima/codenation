@@ -7,3 +7,4 @@ py==1.10.0
 pytest==3.6.2
 six==1.11.0
 requests==2.23.0
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
